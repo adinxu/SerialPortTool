@@ -1,0 +1,72 @@
+# C++-----
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+#Lua-----
+# Compiled Lua sources
+luac.out
+
+# luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
+
+#CodeBlocks
+*.cbp
+*.depend
+*.layout
+wx_pch.h
+*.rc
+*.wxs
+Release_wx_pch_h_gch
+doxyfile
+
+
+#Keil-----
+*.LST
+*.lst
+*.lnp
+*.[Mm]51
+*.13345
+*.uvopt
+*.uvproj
+*.Bak
+*.htm
+*.plg
+*.tmp
+
+#pro
+date
+mypic
+obj/
