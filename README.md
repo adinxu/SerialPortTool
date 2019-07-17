@@ -1,5 +1,5 @@
 # SerialPortTool
-an simple serial port tool write by C++,and the interface is made by wxWidgets
+a simple serial port tool write by C++,which interface is made by wxWidgets
 
 these application run in windows,and receive data from PC's serial
 port,it was designed for show the data received from MCU or some device
